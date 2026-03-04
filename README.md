@@ -13,6 +13,7 @@ The dataset has a 9.6:1 class imbalance (No PCL : PCL), handled via class-weight
 
 **Dev set F1 (positive class): 0.5202** (vs. 0.48 baseline)
 
+**Python Notebook model.ipynb actually works you might have to download it though** 
 ## Repository Structure
 
 ```
